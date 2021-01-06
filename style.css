@@ -1,0 +1,153 @@
+
+.button-1, .button-2, .button-3{
+    background: linear-gradient(rgb(102, 82, 82), blue);
+    padding: 10px 30px;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: 600;
+    
+}
+p{
+    font-size: 16px;
+    margin: 0px 0px 30px 0px;
+}
+
+
+/*button end--------*/
+
+.menu ul li{
+    display: inline-block;
+    float: right;
+    padding: 5px 30px;
+}
+.menu ul li a{
+    text-decoration: none;
+    color: #000;
+    font-size: 16px;
+    font-weight: 600;
+}
+/*menu area end-------------*/
+
+.header-left{
+    width:35%;
+    margin: 50px;
+    float: left;
+    margin-top: 100px;
+}
+.header-left h1{
+    font-size: 35px;
+    text-transform: uppercase;
+}
+.text-highlighter{
+    color:orange;
+    font-size: 30px;
+}
+.header-right{
+    width: 50%;
+    float: right;
+}
+.header-right img{
+    width: 60%;
+    height: auto;
+    margin-left: 150px;
+    margin-top: 70px;
+}
+/*header end-----------*/
+
+.about-left{
+    width: 32%;
+    margin-left: 100px;
+
+}
+.about-right{
+    width: 40%;
+    float: right;
+    margin: 100px 0px;
+    margin-top: -250px;
+}
+.about-right p{
+    margin:30px 0px;
+}
+.about-left img{
+    width: 90%;
+    height: auto;
+    float: right;
+    margin-top: 50px;
+}
+/*about end----------*/
+.latest{
+    clear: both;
+    background: #dcdcde;
+
+}
+.latest h1{
+    font-size: 40px;
+    text-align: center;
+    padding: 40px 0px;
+}
+.leatest-text{
+    color:orange;
+}
+.project-1{
+    width: 25%;
+    display: inline-block;
+    margin-left: 30px;
+    border-radius: 10px;
+    background: #fff;
+    padding: 30px;
+    margin-bottom: 100px;
+    
+}
+.project-1 img{
+    width: 100%;
+}
+.jquery{
+    background:url(images/Group_33094_1.png);
+    background-repeat: no-repeat;
+    margin: 100px 200px; 
+    padding: 20px 0px;
+}
+.jquery-text{
+    width: 40%;
+    color: #fff;
+    font-size: 30px;
+    font-weight: 600;
+    margin-left: 100px;
+}
+.jquery-text h1{
+    width: 100%;
+}
+.btn{
+    float: right;
+    width: 40%;
+    margin-top: -70px;
+}
+.button-3{
+    background:linear-gradient(orange,skyblue);
+    font-weight: 600;
+    margin-left: 100px;
+    font-size: 22px;
+}
+.footer p{
+    text-align: center;
+    font-size: 16px;
+    font-weight: 600;
+}
+.footer h1{
+    text-align: center;
+    font-weight: 600;
+    font-size: 30px;
+    margin-top: -20px;
+}
+.footer ul{
+    text-decoration: none;
+    margin-left: 550px;
+}
+.footer ul li{
+    display: inline-block;  
+}
+.footer ul li img{
+    width:50px;
+    height: 50px;
+}
